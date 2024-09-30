@@ -1,0 +1,24 @@
+{
+  "info": {
+    "_postman_id": "3ead7aca-a8f2-470f-a2e2-548357b39838",
+    "name": "LG Hair Salon",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "752706"
+  },
+  "item": [
+    {
+      "name": "Create Appointment",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ],
+  "variable": [
+    {
+      "key": "url",
+      "value": "your-rest-id.execute-api.your-region.amazonaws.com"
+    }
+  ]
+}
